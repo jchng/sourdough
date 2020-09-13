@@ -34,7 +34,7 @@
 ---
 ### A few notes
 Store in the fridge for up to a week or in the freezer for possibly over 6 months
-* Usually lasts 4 days in room temperature
+* Usually lasts 4 days at room temperature
 * Toasts just fine from the freezer
 
 ### Serving suggestions
