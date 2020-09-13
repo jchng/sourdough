@@ -3,11 +3,8 @@
 **Some nutritional facts of my sourdough that you might have received**
 
 ### Nutritional content
-
 * **Total weight:** about 700g (about 10 Slices)
-
 * **Per serve**: 70g (about a slice)
-
   * **Energy**: 685.3kJ (163.8kcal)
   * **Sodium**: 700mg
 
@@ -18,7 +15,8 @@
 * Starter (aka “*Peanut*”) (22g) 
 	* Flour (11g)
 	* Water (11g) 
-* Salt (8g)   
+* Salt (8g)
+* Rice Flour (dusting) (< 2g)
 
 #### Contains 
   * Gluten
