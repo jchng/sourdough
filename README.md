@@ -53,10 +53,12 @@ Store in the fridge for up to a week or in the freezer for possibly over 6 month
 <img src="https://i.imgur.com/x4b7eCF.png" alt="sourbread and my plants" width="200"/>
 
 *Chestnut (center)* 
-*Spike (Succulent on the left)* 
+
+*Spike (succulent on the left)* 
+
 *Chickpea (between)*
-*and some spring onions on the right*
-*with a loaf of sourdough*
+
+*and some spring onions on the right with a loaf of sourdough*
 
 ---
 Last updated on: 13 September 2020 
